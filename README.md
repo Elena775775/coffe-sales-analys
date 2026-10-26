@@ -1,40 +1,53 @@
 # Coffee Sales Analysis — Tableau
-Project Overview
-This project explores coffee sales data using Tableau. It focuses on customer performance, coffee quantity distribution, profitability, and sales trends over time.
 
-The project includes two interactive dashboards that help users explore sales performance and compare results across customers, countries, and time periods.
+## Project Overview
+This project explores coffee sales data to identify sales patterns, understand customer performance, and compare results across countries and coffee product types.
 
- Dashboards
- 1. Coffee Sales Dashboard
-- Top customers ranked by a selected metric.
-- Treemap comparing top customers by sales and other measures.
-- Coffee quantity distribution by country using box plots.
-- Detailed coffee sales data table.
-- Filters for coffee roast types and varieties.
+The goal is to turn sales data into clear, actionable insights that can support business decisions.
 
- 2. Sales Over Time Dashboard
-- Quarterly profit and ARPPU analysis.
-- Monthly profit by profitability category.
-- Monthly sales with a moving average.
-- Month-over-month sales change analysis.
+## Business Questions
+- Which customers generate the highest sales?
+- How does coffee quantity vary across countries?
+- Which coffee product types contribute to sales performance?
+- How do sales and profitability change over time?
+- What trends and patterns can help inform business decisions?
 
- Tools & Techniques
-- Tableau
-- Calculated fields and parameters
-- Interactive filters and dashboard actions
-- Customer ranking and treemaps
-- Box plots
-- Time-series analysis and moving averages
-- Profitability analysis
+## Dashboards
 
- Skills Demonstrated
-- Data visualization and dashboard design
-- Customer and country-level sales analysis
-- Sales and profitability trend analysis
-- Interactive business reporting
+### 1. Customer Sales Performance
+This dashboard highlights top customers and allows users to explore sales performance using interactive filters and metric selections.
 
- Project Purpose
-This is a learning project created to practice Tableau data analysis, calculated fields, parameters, and interactive dashboard development.
+![Customer Sales Dashboard](Знімок%20екрана%202026-10-26%20123815.png)
+
+### 2. Coffee Sales Distribution and Trends
+This dashboard explores coffee quantity by country and compares distributions across categories. It includes visual analysis to help identify differences and potential outliers.
+
+![Coffee Sales Analysis Dashboard](Знімок%20екрана%202026-10-26%20123838.png)
+
+## Tools and Techniques
+- Tableau Desktop
+- Interactive dashboards and filters
+- Parameter-based metric selection
+- Customer ranking and Top N analysis
+- Bar charts, treemaps, and box plots
+- Comparative analysis across countries and product categories
+
+## Skills Demonstrated
+- Data visualization
+- Exploratory data analysis
+- KPI and metric exploration
+- Customer and sales performance analysis
+- Communicating analytical results through dashboards
+
+## Project Files
+- `coffe-sales-analys.twbx` — packaged Tableau workbook that can be downloaded and opened in a compatible Tableau Desktop installation.
+- Dashboard screenshots — previews of the visualizations.
+
+**Note:** Interactive dashboards are not currently published online. The screenshots above provide a preview, and the packaged workbook is available to download.
+
+## Project Purpose
+This project demonstrates practical data analysis and dashboard-building skills using Tableau, with a focus on exploring sales performance and presenting data in a business-friendly format.
+
 
 ## Dashboard Previews
 
