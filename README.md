@@ -48,4 +48,7 @@ This dashboard explores coffee quantity by country and compares distributions ac
 ## Project Purpose
 This project demonstrates practical data analysis and dashboard-building skills using Tableau, with a focus on exploring sales performance and presenting data in a business-friendly format.
 
+Source Data: View the dataset on Google Sheets
+https://docs.google.com/spreadsheets/d/1-K9dbeDke0VGwvakklxIOuE8ErBmZGL1/edit?usp=sharing&ouid=116949666656512861779&rtpof=true&sd=true
+
 
