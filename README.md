@@ -38,9 +38,10 @@ This is a learning project created to practice Tableau data analysis, calculated
 
 ## Dashboard Previews
 
-### Coffee Sales Dashboard
-![Coffee Sales Dashboard](ЗДЕСЬ_ССЫЛКА_НА_ПЕРВОЕ_ИЗОБРАЖЕНИЕ)
+### 1. Coffee Sales Dashboard
 
-### Sales Over Time Dashboard
-![Sales Over Time Dashboard](ЗДЕСЬ_ССЫЛКА_НА_ВТОРОЕ_ИЗОБРАЖЕНИЕ)
+![Coffee Sales Dashboard](./Знімок%20екрана%202026-10-26%20123815.png)
 
+### 2. Sales Over Time Dashboard
+
+![Sales Over Time Dashboard](./Знімок%20екрана%202026-10-26%20123838.png)
