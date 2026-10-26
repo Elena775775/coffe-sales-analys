@@ -49,12 +49,3 @@ This dashboard explores coffee quantity by country and compares distributions ac
 This project demonstrates practical data analysis and dashboard-building skills using Tableau, with a focus on exploring sales performance and presenting data in a business-friendly format.
 
 
-## Dashboard Previews
-
-### 1. Coffee Sales Dashboard
-
-![Coffee Sales Dashboard](./Знімок%20екрана%202026-10-26%20123815.png)
-
-### 2. Sales Over Time Dashboard
-
-![Sales Over Time Dashboard](./Знімок%20екрана%202026-10-26%20123838.png)
