@@ -36,3 +36,11 @@ The project includes two interactive dashboards that help users explore sales pe
  Project Purpose
 This is a learning project created to practice Tableau data analysis, calculated fields, parameters, and interactive dashboard development.
 
+## Dashboard Previews
+
+### Coffee Sales Dashboard
+![Coffee Sales Dashboard](ЗДЕСЬ_ССЫЛКА_НА_ПЕРВОЕ_ИЗОБРАЖЕНИЕ)
+
+### Sales Over Time Dashboard
+![Sales Over Time Dashboard](ЗДЕСЬ_ССЫЛКА_НА_ВТОРОЕ_ИЗОБРАЖЕНИЕ)
+
